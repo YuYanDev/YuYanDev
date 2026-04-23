@@ -2,7 +2,7 @@
 
 🖥 &nbsp; Focus on JavaScript development, Also competent for writing Golang and CPP.
 
-📻 &nbsp; Amateur Radio operator *Holds China's highest level Ham Radio license Class C ( BG5ABL ). At the same time hold the U.S. Tech-level operator license ( K6TTI ).*
+📻 &nbsp; Amateur Radio operator *Holds Chinese highest level license Class C ( BG5ABL ). At the same time hold the U.S. Tech operator license ( K6TTI ).*
 
 🌍 &nbsp; BGP Player (ASN: AS207292)
 
