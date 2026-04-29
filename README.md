@@ -9,3 +9,5 @@
 🔬 &nbsp; Amateur PCB board design and CAD design.
 
 💻 &nbsp; Website（IPv6 Only）: [https://alleysakura.com](https://alleysakura.com) / Support HTTP1.0 CERN Site: [http://gate.yy.md:8090](http://gate.yy.md:8090)
+
+🎵 &nbsp; Interests: Vintage Electronics · Showa-era Music · Retro Tech
